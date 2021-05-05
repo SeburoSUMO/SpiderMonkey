@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "0.2",
+  "name": "SpiderMonkey",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(17, 11, 43)",
+      "toolbar_text": "rgb(255, 214, 129)",
+      "frame": "rgb(17, 11, 43)",
+      "tab_background_text": "rgb(255, 214, 129)",
+      "toolbar_field": "rgb(17, 11, 43)",
+      "toolbar_field_text": "rgb(255, 214, 129)",
+      "tab_line": "rgb(255, 214, 129)",
+      "popup": "rgb(17, 11, 43)",
+      "popup_text": "rgb(255, 214, 129)",
+      "ntp_background": "rgb(17, 11, 43)",
+      "ntp_text": "rgb(255, 214, 129)",
+      "sidebar_text": "rgb(255, 214, 129)",
+      "sidebar": "rgb(17, 11, 43)",
+      "toolbar_field_border_focus": "rgb(255, 214, 129)",
+      "toolbar_field_border": "rgb(255, 214, 129)",
+      "tab_loading": "rgb(255, 214, 129)"
+    }
+  }
+}
